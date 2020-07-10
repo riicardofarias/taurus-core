@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a51cf64f-8952-4a15-9ef8-1c569be9cfce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/gransistemas/taurus/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/gransistemas/taurus/handler/events/MotionEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/gransistemas/taurus/handler/events/MotionEventHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwYuUypIpgwRmYU0KQQiyO41I7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.gransistemas.taurus.repository.mapper" />
+      <recent name="br.com.gransistemas.taurus" />
+      <recent name="br.com.gransistemas.taurus.helpers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/gransistemas/taurus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.gransistemas.taurus.Main" />
+      <module name="taurus-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.gransistemas.taurus.protocol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.gransistemas.taurus.Test" />
+      <module name="taurus-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.gransistemas.taurus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a51cf64f-8952-4a15-9ef8-1c569be9cfce" name="Default Changelist" comment="" />
+      <created>1576269347021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576269347021</updated>
+      <workItem from="1576269348288" duration="5085000" />
+      <workItem from="1576274999336" duration="1182000" />
+      <workItem from="1576436909313" duration="1658000" />
+      <workItem from="1576516877173" duration="3838000" />
+      <workItem from="1576522997666" duration="5400000" />
+      <workItem from="1576528553963" duration="784000" />
+      <workItem from="1576531186102" duration="20481000" />
+      <workItem from="1576625251048" duration="8000" />
+      <workItem from="1576678063696" duration="18076000" />
+      <workItem from="1576699724224" duration="1223000" />
+      <workItem from="1576704042905" duration="2804000" />
+      <workItem from="1576766104117" duration="2037000" />
+      <workItem from="1576768187120" duration="5446000" />
+      <workItem from="1576779352408" duration="7056000" />
+      <workItem from="1576862949331" duration="7277000" />
+      <workItem from="1578924324910" duration="3129000" />
+      <workItem from="1578930763376" duration="2196000" />
+      <workItem from="1578937310427" duration="4863000" />
+      <workItem from="1578954209497" duration="5695000" />
+      <workItem from="1579528146731" duration="27688000" />
+      <workItem from="1579629461094" duration="2893000" />
+      <workItem from="1579635488954" duration="381000" />
+      <workItem from="1579699212894" duration="20214000" />
+      <workItem from="1579727586125" duration="3308000" />
+      <workItem from="1580133575260" duration="203000" />
+      <workItem from="1580133938991" duration="8966000" />
+      <workItem from="1580158405874" duration="23385000" />
+      <workItem from="1580319297724" duration="1537000" />
+      <workItem from="1580402693635" duration="814000" />
+      <workItem from="1580408634461" duration="23000" />
+      <workItem from="1580917841185" duration="10505000" />
+      <workItem from="1580999232814" duration="2187000" />
+      <workItem from="1581002873838" duration="1862000" />
+      <workItem from="1581007119408" duration="1179000" />
+      <workItem from="1581085791639" duration="2885000" />
+      <workItem from="1581093441740" duration="677000" />
+      <workItem from="1581105706778" duration="2751000" />
+      <workItem from="1581340527623" duration="2727000" />
+      <workItem from="1581427658709" duration="2325000" />
+      <workItem from="1581461219558" duration="1633000" />
+      <workItem from="1582291070748" duration="1557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579705868639">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="488" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1579705868639" />
+    <state x="837" y="278" key="#com.intellij.ide.util.MemberChooser" timestamp="1581090441914">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="837" y="278" key="#com.intellij.ide.util.MemberChooser/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1581090441914" />
+    <state x="588" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581343404683">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="588" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1581343404683" />
+    <state x="762" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580239979208">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="762" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1580239979208" />
+    <state width="1990" height="152" key="GridCell.Tab.0.bottom" timestamp="1582292683861">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state width="1990" height="152" key="GridCell.Tab.0.bottom/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1582292683861" />
+    <state width="1990" height="152" key="GridCell.Tab.0.center" timestamp="1582292683860">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state width="1990" height="152" key="GridCell.Tab.0.center/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1582292683860" />
+    <state width="1990" height="152" key="GridCell.Tab.0.left" timestamp="1582292683860">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state width="1990" height="152" key="GridCell.Tab.0.left/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1582292683860" />
+    <state width="1990" height="152" key="GridCell.Tab.0.right" timestamp="1582292683861">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state width="1990" height="152" key="GridCell.Tab.0.right/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1582292683861" />
+    <state x="525" y="194" key="SettingsEditor" timestamp="1579635560989">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="525" y="194" key="SettingsEditor/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1579635560989" />
+    <state x="100" y="123" width="1848" height="865" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581108458748">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="100" y="123" width="1848" height="865" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1581108458748" />
+    <state x="401" y="259" key="new project wizard" timestamp="1581351054200">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="401" y="259" key="new project wizard/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1581351054200" />
+    <state x="689" y="260" width="670" height="676" key="search.everywhere.popup" timestamp="1581106217141">
+      <screen x="0" y="23" width="2048" height="1065" />
+    </state>
+    <state x="689" y="260" width="670" height="676" key="search.everywhere.popup/0.23.2048.1065/2048.135.1920.1057@0.23.2048.1065" timestamp="1581106217141" />
+  </component>
+</project>
