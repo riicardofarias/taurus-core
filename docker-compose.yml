@@ -1,0 +1,9 @@
+version: '2'
+services:
+  tracker-server:
+    build: .
+    image: "taurus-tracker:latest"
+    ports:
+      - "5000:5000"
+      - "5050:5050"
+    restart: always
